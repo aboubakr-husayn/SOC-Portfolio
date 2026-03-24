@@ -51,4 +51,4 @@ To mitigate these risks, organizations should:
 
 ## Full Investigation Report
 
-[Download Full Investigation Report](./lateral-movement-investigation.odt)
+[Download Full Investigation Report](https://raw.githubusercontent.com/aboubakr-husayn/SOC-Portfolio/main/SOC-Projects/SOC-Projects/Lateral-Movement-Privilege-Escalation/Lateral%20Movement%20%26%20Privilege%20Escalation%20Investigation.odt)
