@@ -51,4 +51,4 @@ To mitigate these risks, organizations should:
 
 ## Full Investigation Report
 
-[Full Investigation Report](./Lateral-Movement-Investigation.odt)
+[Download Full Investigation Report](./lateral-movement-investigation.odt)
