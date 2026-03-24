@@ -29,3 +29,4 @@ The investigation shows that even low-privileged credentials can expose signific
 
 This information enables attackers to plan privilege escalation and lateral movement.
 
+[Full Investigation Report](./Active-Directory-Investigation.odt)
