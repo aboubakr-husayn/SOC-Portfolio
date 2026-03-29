@@ -40,8 +40,7 @@ SIEM Deployment
 Log Ingestion Configuration
 SOC Monitoring Architecture
 Security Log Analysis
+
 Full Investigation Report
-
 The complete technical investigation report with detailed steps, screenshots, and configuration details is available in the document included in this repository.
-
 ➡ splunk-siem-monitoring-environment write-up.docx
