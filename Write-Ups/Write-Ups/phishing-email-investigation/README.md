@@ -32,3 +32,8 @@ Phishing Analysis
 Threat Intelligence Usage
 Email Security Investigation
 SOC Incident Investigation
+
+## Full Investigation Report
+
+The complete technical investigation report with detailed analysis, phishing indicators, and evidence documentation is available in the document included in this repository.
+➡ phishing-email-investigation, write-up.docx
