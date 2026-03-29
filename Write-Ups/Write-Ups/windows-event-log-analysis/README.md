@@ -26,3 +26,8 @@ Windows Event Log Analysis
 PowerShell Script Block Logging
 Command Execution Investigation
 Suspicious Activity Detection
+
+## Full Investigation Report
+
+The complete technical investigation report with detailed analysis, screenshots, and timeline reconstruction is available in the document included in this repository.
+➡ windows-event-log-analysis write-up.docx
