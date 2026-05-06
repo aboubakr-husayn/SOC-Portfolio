@@ -135,7 +135,7 @@ This project demonstrates practical cybersecurity and automation concepts relate
 
 ## Full Project Report
 
-📄 [Download Full Report](./full-report.docx)
+📄 [Download Full Report](https://github.com/aboubakr-husayn/SOC-Portfolio/blob/main/SOC-Projects/SOC-Projects/Secure-Backup-Tool-Python-Automation/Secure%20Backup%20Tool%20project.docx)
 
 ---
 
